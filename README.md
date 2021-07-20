@@ -6,6 +6,6 @@ Then once you have logged in, it logs the time that you entered the software and
 Then finally the program opens python in your terminal. Because you should use python.
 
 I am using this software to practice penatration testing on VM's by breaking into a host, finding this software, cracking the hash, 
-and getting you use the amazing languge that is python. 
+and getting you use the amazing language that is python. 
 
 Thank you for coming to my Ted Talk.
